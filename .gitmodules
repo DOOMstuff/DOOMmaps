@@ -1,0 +1,3 @@
+[submodule "vanilla-maps"]
+	path = vanilla-maps
+	url = https://github.com/jm-janzen/vanilla-maps.git
